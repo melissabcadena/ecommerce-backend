@@ -2,13 +2,13 @@
 
 ## Description: 
 
-This is the back end application for an e-commerce site. Using Sequelize, the models for the Category, Product, ProductTag, and Tag endpoints have been added. The CRUD routes for the Category, Product and Tag tables has also been added to the code. 
+This is the back end application for an e-commerce site. Using Sequelize, the models for the Category, Product, ProductTag, and Tag endpoints have been added. The CRUD routes for the Category, Product and Tag models has also been added to the code. 
 
 To test the models and routes, please see the testing section of the Read Me.
 
 ## Table of Contents
 * [Built With](#builtwith)
-* [Testing] (#testing)
+* [Testing](#testing)
 * [Screenshots](#screenshots)
 * [Questions](#questions)
 
@@ -31,7 +31,14 @@ In order to test this application, follow these steps:
 6. Using Insomnia, you may test the GET, POST, PUT and DELETE routes for Category, Product and Tag models.
 
 ## Screenshots
-* See link to walk through video below: 
+See link to walk through video below: 
+
+* Tests MySQL, NPM Run Seed, server start and GET routes for all and single query
+https://drive.google.com/file/d/1UH8xzA9yhG4qj-baw6KSDJX-emaQCuw3/view
+
+* Tests POST, PUT, and DELETE routes for all tables
+https://drive.google.com/file/d/1fLdawcvJTsFc0h6pR6zpQbRoJVQcjNlA/view
+
 
     
 
